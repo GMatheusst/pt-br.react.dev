@@ -1,15 +1,4 @@
-{
-  "title": "Blog",
-  "path": "/blog",
-  "routes": [
-    {
-      "hasSectionHeader": true,
-      "sectionHeader": "MANTENHA-SE INFORMADO"
-    },
-    {
-      "title": "Blog",
-      "path": "/blog",
-      "skipBreadcrumb": true,
+
       "routes": [
         {
           "title": "React 19 Beta",
